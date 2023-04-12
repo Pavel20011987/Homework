@@ -1,0 +1,15 @@
+D:\Geekbrains\GIT_Advanced\C_sharp_console\bin\Debug\net6.0\C_sharp_console.exe
+D:\Geekbrains\GIT_Advanced\C_sharp_console\bin\Debug\net6.0\C_sharp_console.deps.json
+D:\Geekbrains\GIT_Advanced\C_sharp_console\bin\Debug\net6.0\C_sharp_console.runtimeconfig.json
+D:\Geekbrains\GIT_Advanced\C_sharp_console\bin\Debug\net6.0\C_sharp_console.dll
+D:\Geekbrains\GIT_Advanced\C_sharp_console\bin\Debug\net6.0\C_sharp_console.pdb
+D:\Geekbrains\GIT_Advanced\C_sharp_console\obj\Debug\net6.0\C_sharp_console.csproj.AssemblyReference.cache
+D:\Geekbrains\GIT_Advanced\C_sharp_console\obj\Debug\net6.0\C_sharp_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\GIT_Advanced\C_sharp_console\obj\Debug\net6.0\C_sharp_console.AssemblyInfoInputs.cache
+D:\Geekbrains\GIT_Advanced\C_sharp_console\obj\Debug\net6.0\C_sharp_console.AssemblyInfo.cs
+D:\Geekbrains\GIT_Advanced\C_sharp_console\obj\Debug\net6.0\C_sharp_console.csproj.CoreCompileInputs.cache
+D:\Geekbrains\GIT_Advanced\C_sharp_console\obj\Debug\net6.0\C_sharp_console.dll
+D:\Geekbrains\GIT_Advanced\C_sharp_console\obj\Debug\net6.0\refint\C_sharp_console.dll
+D:\Geekbrains\GIT_Advanced\C_sharp_console\obj\Debug\net6.0\C_sharp_console.pdb
+D:\Geekbrains\GIT_Advanced\C_sharp_console\obj\Debug\net6.0\C_sharp_console.genruntimeconfig.cache
+D:\Geekbrains\GIT_Advanced\C_sharp_console\obj\Debug\net6.0\ref\C_sharp_console.dll
